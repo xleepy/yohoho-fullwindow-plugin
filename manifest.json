@@ -1,0 +1,13 @@
+{
+  "name": "Yohoho fullwindow",
+  "description": "",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "32": "/favicon-32x32.png"
+    }
+  }
+}
